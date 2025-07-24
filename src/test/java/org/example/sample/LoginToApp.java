@@ -9,6 +9,5 @@ public class LoginToApp {
     public void test(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.flipkart.com/");
-
     }
 }
